@@ -1,0 +1,8 @@
+[
+{ "image": "./src/assets/img/Bitcoin.png", "nom": "Bitcoin", "prix": 10, "stock": 2, "button": "Acheter"},
+      
+{ "image": "./src/assets/img/telos.png", "nom": "Telos", "prix": 5, "stock": 4,  "button": "Acheter"},
+
+{ "image": "./src/assets/img/zel-flux-logo.png", "nom": "Flux", "prix": 2.5, "stock": 2,  "button": "Acheter"}
+
+]

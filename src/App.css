@@ -1,0 +1,25 @@
+#crypto{
+    display: flex;
+    justify-content: space-around;
+    height: 400px;
+}
+
+hr{
+    margin-top: 40px;
+}
+
+#cart{
+    margin-top: 40px;
+}
+
+#d-flex{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+#wallet{
+    margin: 40px;
+}
